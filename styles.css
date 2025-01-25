@@ -1,0 +1,19 @@
+.text-box h3:first-of-type {
+    color: pink; /* Пофарбувати перший заголовок h3 в рожевий */
+}
+
+#greycol {
+    color: grey; /* Пофарбувати параграф з id greycol в сірий */
+}
+
+.text-box div p {
+    color: red; /* Пофарбувати параграф в червоний, який знаходиться в div */
+}
+
+.text-box p:last-of-type {
+    color: green; /* Пофарбувати останній параграф в зелений */
+}
+
+.text-box p.yellow {
+    color: yellow; /* Пофарбувати параграф з класом yellow в жовтий */
+}
